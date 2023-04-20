@@ -1,5 +1,8 @@
 # CNN_general_purpose_learning_system
 
+# READMEには，概要のみ書かれています．
+# 詳しい操作方法等は，manual.pdfを参照してください．
+
 ![スライド1](https://user-images.githubusercontent.com/130662939/233326328-62774d0c-4a59-45d2-8fb2-a868673b6c62.jpeg)
 ![スライド2](https://user-images.githubusercontent.com/130662939/233326340-db44a845-eb22-485c-aa72-2c4f7ee53c6d.jpeg)
 ![スライド3](https://user-images.githubusercontent.com/130662939/233326347-06dbcc7f-422e-47d6-89a6-ca22c39c56f4.jpeg)
