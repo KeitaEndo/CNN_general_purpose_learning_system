@@ -1,4 +1,4 @@
-# CNN_general_purpose_learning_system
+# CNN general purpose learning system
 
 # READMEには，概要のみ書かれています．
 # 詳しい操作方法等は，manual.pdfを参照してください．
